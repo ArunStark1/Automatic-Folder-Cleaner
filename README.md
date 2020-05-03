@@ -15,4 +15,4 @@ Steps:- Download Or clone-
  # Contributors
  
  Arun Stark 
- All Copyrights reseved!!
+ CopyRight(c) All Rights reserved!!
